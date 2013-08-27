@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Mathematics progress game</string>
+    <string name="app_name">Mathematics Progress</string>
+    <string name="txtFirstNumber">0</string>
+    <string name="txtSecondNumber">0</string>
+    <string name="txtThirdNumber">0</string>
+    <string name="txtFourthNumber">\?</string>
+    <string name="txtChooseOne">0</string>
+    <string name="txtChooseTwo">0</string>
+    <string name="txtChooseThree">0</string>
+    <string name="txtSpace"></string>
+    <string name="stat"></string>
+    <string name="ans">ans</string>
+    <string name="simple">Simple</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+</resources>
